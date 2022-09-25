@@ -1,7 +1,7 @@
 # 餐廳美食網
 
 一個使用 Node.js + Express 打造的餐廳美食網站，同時，可依照餐廳名稱與類別進行搜尋資料。
-
+A restaurant food website built with Node.js + Express, at the same time, you can search by restaurant name and category.
 
 ## 專案畫面
 
