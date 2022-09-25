@@ -30,7 +30,10 @@ A restaurant food website built with Node.js + Express, at the same time, you ca
 
 
 ## Environment SetUp - 環境建置
-Node.js
+  - 1.Visual Studio Code  
+  - 2.Node.js  
+  - 3.Express  
+  - 4.Express-handlebars
 
 
 ## Installing - 專案安裝流程
